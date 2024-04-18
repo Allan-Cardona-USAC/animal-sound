@@ -9,7 +9,7 @@
 body {
   align-items: center;
   /*azul celeste */ 
-  background-image: url(/images/fondo.jpg);
+  background-image: url(images/fondo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   /*
