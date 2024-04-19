@@ -9,15 +9,13 @@
 body {
   align-items: center;
   /*azul celeste */ 
-  background-image: url(images/fondo.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  /*
+ 
+  
   background: #5a5bf3; 
   background: -moz-linear-gradient(left, #5a5bf3 0%, #91e7d9 100%); 
   background: -webkit-linear-gradient(left, #5a5bf3 0%,#91e7d9 100%); 
   background: linear-gradient(to right, #5a5bf3 0%,#91e7d9 100%);
-*/
+
   display: flex;
   justify-content: center;
   flex-direction: column;
